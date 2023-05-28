@@ -24,5 +24,5 @@ cat animals.txt
 mv animals.txt mansFriends.txt
 cat mansFriends.txt
 
-![TASK01](https://drive.google.com/file/d/10UVMvF4VIH66DY1jXXhGOjI_kqv-3RgU/view?usp=sharing)
+![TASK01](task01.png)
 
